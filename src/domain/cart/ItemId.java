@@ -1,4 +1,4 @@
 package domain.cart;
 
-public record ItemId() {
+public record ItemId(Long value) {
 }
